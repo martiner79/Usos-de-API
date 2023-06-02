@@ -8,7 +8,7 @@ lat = -32.89084
 #Longitud de la Ptovincia de Mendoza
 lon = -68.82717
 
-api_key = "92690bcd0447a1c81cf8ef96360e6987"
+api_key = "------------------------"
 
 #A nuestra URL le agregamos units=metrics para valores en grados Celcius (°C) y lang=es para la traducción a Español
 api_call = f"http://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={api_key}&units=metric&lang=es"
